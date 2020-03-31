@@ -1,0 +1,29 @@
+h1{
+  font: italic small-caps bold 16px/2 cursive;
+}
+
+h2{
+  font: italic small-caps bold 16px/2 cursive;
+}
+
+button {
+  background-color: #FDF5E6;
+  border: none;
+  color: black;
+  padding: 20px 37px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+}
+
+.card{
+  background-color: #E6DBAC;
+  border: none;
+  color: black;
+  padding: 20px 37px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px 8px;
+  }
